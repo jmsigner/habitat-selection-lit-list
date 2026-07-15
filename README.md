@@ -19,3 +19,4 @@ A list of potentially interesting papers dealing with habitat selection of anima
 - [Three-Dimensional Correlated Random Walks for Animal Movement and Habitat Selection](https://onlinelibrary.wiley.com/doi/10.1111/ele.70414)
 
 # Resource Selection Analysis
+- [A machine-learning approach for extending classical wildlife resource selection analyses](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.3936)
