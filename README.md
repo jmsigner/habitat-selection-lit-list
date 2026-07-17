@@ -1,9 +1,10 @@
 # Habitat Selection of Animals
 A list of potentially interesting papers dealing with habitat selection of animals. 
 
-# Theory
+# Theory & Overviews
 - [Consistent multiscale modelling of movement and habitat selection](https://link.springer.com/article/10.1007/s00285-026-02370-w)
 - [Avgar et al. 2018; Relative Selection Strength: Quantifying effect size in habitat- and step-selection inference](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.3122)
+- [Florko 2025; An introduction to statistical models used to characterize species-habitat associations with animal movement data](https://link.springer.com/article/10.1186/s40462-025-00549-2)
 
 # Step Selection Analysis
 
