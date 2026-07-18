@@ -18,6 +18,7 @@ A list of potentially interesting papers dealing with habitat selection of anima
 - [An intuitive method to calculate the utilization distribution of an animal from step-selection analysis](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210x.70316)
 
 ## Methods
+- [Chatterjee et al. 2024; Modelling individual variability in habitat selection and movement using integrated step-selection analysis](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.14321)
 - [Klappstein et al. 2024; Step selection functions with non-linear and random effects](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.14367)
 - [Three-Dimensional Correlated Random Walks for Animal Movement and Habitat Selection](https://onlinelibrary.wiley.com/doi/10.1111/ele.70414)
 
